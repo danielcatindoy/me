@@ -1,0 +1,36 @@
+images 	- main page (profile picture) (DONE)
+		- 5 highlight images (PENDING / STARTED ...)
+
+contents	- (articles) atleast 3 highlight contents to discuss (PENDING)
+			- should have atleast:
+			- title
+			- description
+			- image
+			- sample codes, images and etc...
+			- note: make it simple as possible
+
+			- work history (DONE)
+				- display it's pictures
+			- educational background (NEED TO IDENTIFY WHERE TO ADD)
+				- display it's pictures (college to masters)
+
+			- about page (display brief content)
+				- contents (DONE)
+				- link social media business accounts (NOT YET)
+
+			- projects (PENDING)
+				- display title and brief description
+				- Waterfall finance
+				- Dealogikal Platform
+				- ARAMIS
+				- Caltex Cloud Contact Center
+				- VBH inventory system
+			
+			- remove speaking component / page (DONE)
+
+			- Software, gadgets, other things i recommend (page) (PENDING)
+				- title and brief description
+				- workstation
+				- development tools
+				- design
+				- productivity
